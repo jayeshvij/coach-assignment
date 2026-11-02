@@ -17,7 +17,7 @@ npm start
 
 ## Demo
 
-![Coach Directory Demo](./assets/coach-directory-demo.gif)
+[Watch the project demo](assets/coach-directory-demo.mp4)
 
 ## API
 
